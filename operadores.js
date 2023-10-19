@@ -1,6 +1,4 @@
-/*el segundo trabajo consiste en un archivo JavaScript que permita ingresar dos datos por teclado, 
-este archivo debe realizar las operacione de adicion, sustracion, multiplicacion, division, 
-division modular y exponente*/
+
 
 /* MULTIPLICACIÓN
 
